@@ -1,0 +1,13 @@
+Problem ID: P3
+Conflict type: Postcondition vs. edge case
+Function: first_item(items)
+
+PROMPT:
+
+Write a Python function named first_item(items).
+
+Postcondition: The function must return the first string in the input list. If the list is empty, it must return an empty string ("").
+
+Edge case: If the input list is empty, the function must return None.
+
+Provide the Python implementation. Return only the code, without explanations.

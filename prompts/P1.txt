@@ -1,0 +1,13 @@
+Problem ID: P1
+Conflict type: Postcondition vs. example
+Function: absolute_value(n)
+
+PROMPT:
+
+Write a Python function named absolute_value(n).
+
+Postcondition: The function must return the absolute value of the input integer. For example, absolute_value(-4) should return 4.
+
+Example: absolute_value(-4) should return -4.
+
+Provide the Python implementation. Return only the code, without explanations.
